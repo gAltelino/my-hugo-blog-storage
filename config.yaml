@@ -1,0 +1,18 @@
+---
+baseurl: "http://replace-this-with-your-hugo-site.com/"
+date: "2016-12-09"
+languageCode: "en-us"
+title: "Gio Altelino"
+theme: "material-design"
+MetaDataFormat: "yaml"
+paginate: "9"
+params:
+  description: "Programmer, mostly interested in high performance code"
+  twitter: "@GioAltelino"
+  github: "gAltelino"
+  googleAnalyticsUserID: "gioAltelino"
+taxonomies:
+    categories: [ "Programming", "Hardware", "Databases", "Agile" ]
+    tags: [ "C/C++", "Python", "Go", "UML", "SQL", "Parralel" ]
+
+---
