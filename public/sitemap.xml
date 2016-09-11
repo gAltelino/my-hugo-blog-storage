@@ -3,6 +3,17 @@
   
   <url>
     <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <lastmod>2016-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/blog/First/</loc>
+    <lastmod>2016-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/guide/First/</loc>
+    <lastmod>2016-09-10T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
