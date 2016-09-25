@@ -2,7 +2,7 @@
 date: "2016-09-10"
 draft: "false"
 title: "First Blog"
-taxonomies:
+params:
   tag: "Go"
   category: "Programming"
 
